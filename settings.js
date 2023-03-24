@@ -15,7 +15,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
